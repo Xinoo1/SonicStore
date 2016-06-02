@@ -1,0 +1,127 @@
+body{	
+    background: #001740;
+    color:#c7b56d;
+}
+
+#Principal{
+    width: 850px;
+    border: 1px solid #000000;
+    margin: 0 auto;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: #666 3px 5px 8px;
+    -moz-box-shadow: #666 3px 5px 8px;
+    background: #001731;
+    box-shadow: #666 3px 5px 8px;
+}
+
+#Cabezera{
+    background: url(../img/Cabeza.jpg);
+    background-repeat: repeat-x;
+    height:170px;
+    border: 3px solid #c7b56d;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+#Sesion{
+    width: 190px;
+    border: 3px solid #c7b56d;
+    margin: 10px;
+    float: left;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#Filtro1{
+    width: 140px;
+    border: 3px solid #c7b56d;
+    margin: 10px;
+    float: left;
+    border-radius: 8px;
+}
+
+#Filtro2{
+    width: 340px;
+    border: 3px solid #c7b56d;
+    margin: 10px;
+    float: left;
+    border-radius: 8px;
+}
+
+#Filtro2{
+    width: 340px;
+    border: 3px solid #c7b56d;
+    margin: 10px;
+    float: left;
+    border-radius: 8px;
+}
+
+#Filtro3{
+    width: 440px;
+    border: 3px solid #c7b56d;
+    margin: 10px;
+    float: left;
+    border-radius: 8px;
+}
+
+#Filtro4{
+    width: 75px;
+    border: 3px solid #c7b56d;
+    margin: 10px;
+    float: left;
+    border-radius: 8px;
+    background: url(../img/sonic.jpg);
+    height: 75px;
+}
+
+.o1{
+    color: #c7b56d;
+    text-decoration: none;
+}
+
+.c2{
+    clear: both;
+}
+
+#Izq{
+    width: 190px;
+    border: 3px solid #c7b56d;
+    margin: 10px;
+    float: left;
+    border-radius: 8px;
+}
+
+#Der{
+    width: 605px;
+    border: 3px solid #c7b56d;
+    margin: 10px;
+    float: left;
+    border-radius: 8px;
+}
+
+.clear{
+    clear: both;
+}
+
+#pie{
+    height: 50px;
+    border: 3px solid #c7b56d;
+    margin: 10px;
+    border-radius: 8px;
+}
+#Encabezado{
+    border: 2px solid #c7b56d;
+    margin: 10px;
+    border-radius: 8px;
+    padding: 4px;
+    height: 15px;
+}
+
+#Encabezado li{
+    display: inline;
+    text-decoration: none;
+    color: #c7b56d;
+    margin-left: 10px;
+}
